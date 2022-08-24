@@ -6,7 +6,7 @@ const Hello = () => {
   return (
     <div>
       <div className="Hello">
-        <img width="200px" alt="icon" src={icon} />
+        <img width="200" alt="icon" src={icon} />
       </div>
       <h1>Hello World</h1>
       <div className="Hello"><h2>
