@@ -15,6 +15,8 @@ import log from 'electron-log';
 import MenuBuilder from './menu';
 import { resolveHtmlPath } from './util';
 
+// TODO: Remove demo code CTF{WorkInProgress}
+
 export default class AppUpdater {
   constructor() {
     log.transports.file.level = 'info';
